@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
 ![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=Bash&logoColor=6296CC)
 ![Docker](https://img.shields.io/badge/-Docker-1E7775?style=for-the-badge&logo=Docker&logoColor=6296CC)
-![Git_lab_CICD](https://img.shields.io/badge/-Git_lab_CICD-1E7775?style=for-the-badge&logo=Git_lab_CICD&logoColor=6296CC)
+![Gitlab_CICD](https://img.shields.io/badge/-Gitlab_CICD-1E7775?style=for-the-badge&logo=Gitlab_CICD&logoColor=6296CC)
 
 ### Projects I've worked on
 | Project name | Description | Tools |
