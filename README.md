@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning C++ 📱
 - 📫 How to reach me: @dtaushkanov (Telegram)
 
+[![Resume](https://img.shields.io/badge/Resume-2CA5E0?style=for-the-badge&logo=Resume&logoColor=green)]https://www.notion.so/5b24ccfa981a4ec2be6a329c91e288aa?pvs=4
+
 ### Languages and tools
 
 ![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
