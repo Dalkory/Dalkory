@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### I write code in C++
+[![telegram](https://img.shields.io/badge/Dalkory-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtaushkanov)
 
 ### Languages and tools
 
@@ -7,7 +8,6 @@
 ![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![QT](https://img.shields.io/badge/-QT-1E7775?style=for-the-badge&logo=QT&logoColor=6296CC)
 ![Make](https://img.shields.io/badge/-Make-1E7775?style=for-the-badge&logo=Make&logoColor=6296CC)
-![GTest](https://img.shields.io/badge/-GTest-1E7775?style=for-the-badge&logo=GTest&logoColor=6296CC)
 
 
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
