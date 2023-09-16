@@ -1,13 +1,13 @@
 ### Hi there 👋
-### I write code in C++
+### I write code in C++ 👨🏻‍💻
 
 [![Resume](https://img.shields.io/badge/_RESUME_-00FF00?style=for-the-badge&logo=_RESUME_&logoColor=white)](https://www.notion.so/5b24ccfa981a4ec2be6a329c91e288aa?pvs=4)
 
 [![telegram](https://img.shields.io/badge/Dalkory-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtaushkanov)
 
-- 🔭 I’m currently studying on School 21 💻 
-- 🌱 I’m currently learning C++ 📱
-- 📫 How to reach me: @dtaushkanov (telegram)
+- 🔭 I’m currently studying on School 21 🎓
+- 🌱 I’m currently learning C++ 💻
+- 📫 How to reach me: @dtaushkanov (telegram) ✉️
 
 ### Languages and tools
 
