@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on School 21 💻 
 - 🌱 I’m currently learning C++ 📱
-- 📫 How to reach me: @dtaushkanov [![telegram](https://img.shields.io/badge/Dalkory-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtaushkanov)
+- 📫 How to reach me: [![telegram](https://img.shields.io/badge/Dalkory-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtaushkanov)
 
 
 
