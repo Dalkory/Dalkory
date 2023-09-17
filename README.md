@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying on School 21 🎓
 - 🌱 I’m currently learning C/C++ 💻
-- 📫 How to reach me: @dtaushkanov (telegram) ✉️
+- 📫 How to reach me: [@dtaushkanov](https://t.me/dtaushkanov) (telegram) ✉️
 
 ### Languages and tools
 
