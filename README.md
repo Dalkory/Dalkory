@@ -1,12 +1,12 @@
 ### Hi there 👋
-### I write code in C++ 👨🏻‍💻
+### I write code in C/C++ 👨🏻‍💻
 
 [![Resume](https://img.shields.io/badge/_RESUME_-00FF00?style=for-the-badge&logo=_RESUME_&logoColor=white)](https://www.notion.so/5b24ccfa981a4ec2be6a329c91e288aa?pvs=4)
 
 [![telegram](https://img.shields.io/badge/Dalkory-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtaushkanov)
 
 - 🔭 I’m currently studying on School 21 🎓
-- 🌱 I’m currently learning C++ 💻
+- 🌱 I’m currently learning C/C++ 💻
 - 📫 How to reach me: @dtaushkanov (telegram) ✉️
 
 ### Languages and tools
@@ -26,7 +26,7 @@
 ### Projects I've worked on
 | Project name | Description | Tools |
 |-|-|-|
-| [SmartCalc] IN PROGRESS | Implementation of a calculator with a user interface, mathematical functions and plotting graphs | C++, Make, QT, QCustomPlot, GoogleTest                                    |
+| [SmartCalc] IN PROGRESS | Implementation of a calculator with a user interface, mathematical functions and plotting graphs | C++, C, Make, QT, QCustomPlot, Check tests                                   |
 | [matrix.h](https://github.com/Dalkory/Matrix)        | Library for working with matrices (C)                                                            | C, Make, Check tests                                                      |
 | [decimal.h](https://github.com/Dalkory/Decimal)       | Implementation of decimal.h library from C#                                                      | C, Make, Check tests                                                      |
 | [math.h](https://github.com/Dalkory/Math)          | Implementation of some functions of the math.h library                                           | C, Make, Check tests                                                      |
