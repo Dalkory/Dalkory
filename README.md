@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I write code in C/C++ 👨🏻‍💻
 
-[![RESUME_EN](https://img.shields.io/badge/RESUME_EN-00FF00?style=for-the-badge&logo=RESUME_EN&logoColor=white)](https://www.notion.so/5b24ccfa981a4ec2be6a329c91e288aa?pvs=4)
-[![RESUME_RU](https://img.shields.io/badge/RESUME_RU-00FF00?style=for-the-badge&logo=RESUME_RU&logoColor=white)](https://www.notion.so/5b24ccfa981a4ec2be6a329c91e288aa?pvs=4)
+[![RESUME_EN](https://img.shields.io/badge/RESUME_EN-00FF00?style=for-the-badge&logo=RESUME_EN&logoColor=white)](https://ripple-wildflower-761.notion.site/Daniil-Tauhkanov-5b24ccfa981a4ec2be6a329c91e288aa?pvs=4)
+[![RESUME_RU](https://img.shields.io/badge/RESUME_RU-00FF00?style=for-the-badge&logo=RESUME_RU&logoColor=white)](https://ripple-wildflower-761.notion.site/c54c974dca7e4a66b63e46e56ecb4bb6?pvs=4)
 [![RESUME_A4](https://img.shields.io/badge/RESUME_A4-00FF00?style=for-the-badge&logo=RESUME_A4&logoColor=white)](https://www.figma.com/file/8gBIGUkalCt9mr8ZisW3wQ/Resume?type=whiteboard&node-id=0%3A1&t=jS8b6RyPAkgqzx4n-1)
 
 [![telegram](https://img.shields.io/badge/Dalkory-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtaushkanov)
