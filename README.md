@@ -28,7 +28,8 @@
 ### Projects I've worked on
 | Project name | Description | Tools |
 |-|-|-|
-| [SmartCalc](https://github.com/Dalkory/SmartCalc) | Implementation of a calculator with a user interface, mathematical functions and plotting graphs | C++, C, Make, QT, QCustomPlot, Check tests                                   |
+| [3DViewer_on_C](https://github.com/Dalkory/3DViewer_on_C) | Program for viewing 3D objects from .obj files | C++, C, Make, QT, QGraphicsScene, Check tests |
+| [SmartCalc_on_C](https://github.com/Dalkory/SmartCalc) | Implementation of a calculator with a user interface, mathematical functions and plotting graphs | C++, C, Make, QT, QCustomPlot, Check tests                                   |
 | [matrix.h](https://github.com/Dalkory/Matrix)        | Library for working with matrices (C)                                                            | C, Make, Check tests                                                      |
 | [decimal.h](https://github.com/Dalkory/Decimal)       | Implementation of decimal.h library from C#                                                      | C, Make, Check tests                                                      |
 | [math.h](https://github.com/Dalkory/Math)          | Implementation of some functions of the math.h library                                           | C, Make, Check tests                                                      |
