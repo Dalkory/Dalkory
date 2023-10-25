@@ -30,6 +30,7 @@
 |-|-|-|
 | [3DViewer_on_C](https://github.com/Dalkory/3DViewer_on_C)|Program for viewing 3D objects from .obj files|C++, C, Make, QT, QGraphicsScene, Check tests|
 | [SmartCalc_on_C](https://github.com/Dalkory/SmartCalc)|Implementation of a calculator with a user interface, mathematical functions and plotting graphs|C++, C, Make, QT, QCustomPlot, Check tests|
+| [CPP_Containers](https://github.com/Dalkory/CPP_Containers)|Implementation of CPP containers: list, stack, queue, set, multiset, map, vector, array|C++, Make, GoogleTest|
 | [MatrixClass](https://github.com/Dalkory/matrix_oop.h)|Library for working with matrices (C++)|C++, Make, GoogleTest|
 | [matrix.h](https://github.com/Dalkory/Matrix)|Library for working with matrices(C)| C, Make, Check tests|
 | [decimal.h](https://github.com/Dalkory/Decimal)| Implementation of decimal.h library from C#| C, Make, Check tests|
