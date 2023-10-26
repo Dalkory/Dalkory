@@ -17,21 +17,25 @@
 ![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![QT](https://img.shields.io/badge/-QT-1E7775?style=for-the-badge&logo=QT&logoColor=6296CC)
 ![Make](https://img.shields.io/badge/-Make-1E7775?style=for-the-badge&logo=Make&logoColor=6296CC)
-![Qcov_Report](https://img.shields.io/badge/-Qcov_Report-1E7775?style=for-the-badge&logo=Qcov_Report&logoColor=6296CC)
+![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=Bash&logoColor=6296CC)
+![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-1E7775?style=for-the-badge&logo=POSTGRESQL&logoColor=6296CC)
 
 ![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=Linux&logoColor=6296CC)
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
-![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=Bash&logoColor=6296CC)
 ![Docker](https://img.shields.io/badge/-Docker-1E7775?style=for-the-badge&logo=Docker&logoColor=6296CC)
 ![Gitlab_CICD](https://img.shields.io/badge/-Gitlab_CICD-1E7775?style=for-the-badge&logo=Gitlab_CICD&logoColor=6296CC)
+![Qcov_Report](https://img.shields.io/badge/-Qcov_Report-1E7775?style=for-the-badge&logo=Qcov_Report&logoColor=6296CC)
+![GTEST](https://img.shields.io/badge/-GTEST-1E7775?style=for-the-badge&logo=GTEST&logoColor=6296CC)
 
 ### Projects I've worked on
 | Project name | Description | Tools |
 |-|-|-|
+https://github.com/Dalkory/SQL_Intensive
 | [3DViewer_on_C](https://github.com/Dalkory/3DViewer_on_C)|Program for viewing 3D objects from .obj files|C++, C, Make, QT, QGraphicsScene, Check tests|
 | [SmartCalc_on_C](https://github.com/Dalkory/SmartCalc)|Implementation of a calculator with a user interface, mathematical functions and plotting graphs|C++, C, Make, QT, QCustomPlot, Check tests|
 | [CPP_Containers](https://github.com/Dalkory/CPP_Containers)|Implementation of CPP containers: list, stack, queue, set, multiset, map, vector, array|C++, Make, GoogleTest|
 | [MatrixClass](https://github.com/Dalkory/matrix_oop.h)|Library for working with matrices (C++)|C++, Make, GoogleTest|
+| [SQL_Intensive](https://github.com/Dalkory/SQL_Intensive)|SQL training projects|Postgresql|
 | [matrix.h](https://github.com/Dalkory/Matrix)|Library for working with matrices(C)| C, Make, Check tests|
 | [decimal.h](https://github.com/Dalkory/Decimal)| Implementation of decimal.h library from C#| C, Make, Check tests|
 | [math.h](https://github.com/Dalkory/Math)| Implementation of some functions of the math.h library| C, Make, Check tests|
