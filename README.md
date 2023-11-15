@@ -36,13 +36,14 @@
 | [SmartCalc_on_C](https://github.com/Dalkory/SmartCalc)|Implementation of a calculator with a user interface, mathematical functions and plotting graphs|C++, C, Make, QT, QCustomPlot, Check tests|
 | [CPP_Containers](https://github.com/Dalkory/CPP_Containers)|Implementation of CPP containers: list, stack, queue, set, multiset, map, vector, array|C++, Make, GoogleTest|
 | [MatrixClass](https://github.com/Dalkory/matrix_oop.h)|Library for working with matrices (C++)|C++, Make, GoogleTest|
+| [Info_21](https://github.com/Dalkory/Info_21)|Data analysis and statistics for School 21|Postgresql|
 | [SQL_Intensive](https://github.com/Dalkory/SQL_Intensive)|SQL training projects|Postgresql|
-| [matrix.h](https://github.com/Dalkory/Matrix)|Library for working with matrices(C)| C, Make, Check tests|
-| [decimal.h](https://github.com/Dalkory/Decimal)| Implementation of decimal.h library from C#| C, Make, Check tests|
-| [math.h](https://github.com/Dalkory/Math)| Implementation of some functions of the math.h library| C, Make, Check tests|
-| [SimpleBashUtils](https://github.com/Dalkory/SimpleBashUtils)| Implementation of of Bash text utilities: cat, grep|C, Make, Check tests|
 | [string.h++](https://github.com/Dalkory/String_Sprintf_Sscanf)| Implementation of some functions of the string.h library| C, Make, Check tests|
+| [decimal.h](https://github.com/Dalkory/Decimal)| Implementation of decimal.h library from C#| C, Make, Check tests|
+| [SimpleBashUtils](https://github.com/Dalkory/SimpleBashUtils)| Implementation of of Bash text utilities: cat, grep|C, Make, Check tests|
+| [matrix.h](https://github.com/Dalkory/Matrix)|Library for working with matrices(C)| C, Make, Check tests|
+| [math.h](https://github.com/Dalkory/Math)| Implementation of some functions of the math.h library| C, Make, Check tests|
+| [CICD](https://github.com/Dalkory/CICD_GITLAB)| Training project on building, testing and deployment using GitLab CI/CD| GitLab CI/CD|
+| [Docker](https://github.com/Dalkory/SimpleDocker)| Training project on developing docker image with server|Docker, Bash, C, FastCgi, nginx, Dockle, Docker Compose|
 | [LinuxNetwork](https://github.com/Dalkory/LinuxNetwork)| Training project on network configuration on Linux virtual machines|Linux, ipcalc, netstat, iperf3, iptables, nmap, dhcp server, apache2, ssh|
 | [LinuxMonitoring_v1.0](https://github.com/Dalkory/LinuxMonitoring_v1.0) and [LinuxMonitoring_v2.0](https://github.com/Dalkory/LinuxMonitoring_v2.0)| Training project on bash scripting and system research| Linux, Bash, vmstat, find, du, grep, awk, sort, time|
-| [Docker](https://github.com/Dalkory/SimpleDocker)| Training project on developing docker image with server|Docker, Bash, C, FastCgi, nginx, Dockle, Docker Compose|
-| [CICD](https://github.com/Dalkory/CICD_GITLAB)| Training project on building, testing and deployment using GitLab CI/CD| GitLab CI/CD|
