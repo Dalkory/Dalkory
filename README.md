@@ -34,8 +34,8 @@
 | [SmartCalc_on_CPP](https://github.com/Dalkory/SmartCalcCPP)|Implementation of a calculator with a user interface, mathematical functions and plotting graphs|C++, Make, QT, QCustomPlot, GoogleTest|
 | [3DViewer_on_C](https://github.com/Dalkory/3DViewer_on_C)|Program for viewing 3D objects from .obj files|C++, C, Make, QT, QGraphicsScene, Check tests|
 | [SmartCalc_on_C](https://github.com/Dalkory/SmartCalc)|Implementation of a calculator with a user interface, mathematical functions and plotting graphs|C++, C, Make, QT, QCustomPlot, Check tests|
-| [CPP_Containers](https://github.com/Dalkory/CPP_Containers)|Implementation of CPP containers: list, stack, queue, set, multiset, map, vector, array|C++, Make, GoogleTest|
-| [MatrixClass](https://github.com/Dalkory/matrix_oop.h)|Library for working with matrices (C++)|C++, Make, GoogleTest|
+| [CPP_Containers](https://github.com/Dalkory/CPP_Containers)|Implementation of (C++) containers: list, stack, queue, set, multiset, map, vector, array|C++, Make, GoogleTest|
+| [CPP_MatrixClass](https://github.com/Dalkory/matrix_oop.h)|Library for working with matrices (C++)|C++, Make, GoogleTest|
 | [Info_21](https://github.com/Dalkory/Info_21)|Data analysis and statistics for School 21|Postgresql|
 | [SQL_Intensive](https://github.com/Dalkory/SQL_Intensive)|SQL training projects|Postgresql|
 | [string.h++](https://github.com/Dalkory/String_Sprintf_Sscanf)| Implementation of some functions of the string.h library| C, Make, Check tests|
