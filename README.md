@@ -36,7 +36,8 @@
 | [SmartCalc_on_C](https://github.com/Dalkory/SmartCalc)|Implementation of a calculator with a user interface, mathematical functions and plotting graphs|C++, C, Make, QT, QCustomPlot, Check tests|
 | [CPP_Containers](https://github.com/Dalkory/CPP_Containers)|Implementation of (C++) containers: list, stack, queue, set, multiset, map, vector, array|C++, Make, GoogleTest|
 | [CPP_MatrixClass](https://github.com/Dalkory/matrix_oop.h)|Library for working with matrices (C++)|C++, Make, GoogleTest|
-| [Info_21](https://github.com/Dalkory/Info_21)|Data analysis and statistics for School 21|Postgresql|
+| [SQL_Info_21](https://github.com/Dalkory/Info_21)|Data analysis and statistics for School 21|Postgresql|
+| [SQL_RetailAnalitycs](https://github.com/Dalkory/SQL_RetailAnalitycs)|Retail analytics data upload, its simple analysis, statistics, customer segmentation and creation of personal offers|Postgresql|
 | [SQL_Intensive](https://github.com/Dalkory/SQL_Intensive)|SQL training projects|Postgresql|
 | [string.h++](https://github.com/Dalkory/String_Sprintf_Sscanf)| Implementation of some functions of the string.h library| C, Make, Check tests|
 | [decimal.h](https://github.com/Dalkory/Decimal)| Implementation of decimal.h library from C#| C, Make, Check tests|
