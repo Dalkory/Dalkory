@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I write code in C/C++ 👨🏻‍💻
+### I write code in C/C++/C# 👨🏻‍💻
 
 [![RESUME_EN](https://img.shields.io/badge/RESUME_EN-00FF00?style=for-the-badge&logo=RESUME_EN&logoColor=white)](https://ripple-wildflower-761.notion.site/Daniil-Tauhkanov-5b24ccfa981a4ec2be6a329c91e288aa?pvs=4)
 [![RESUME_RU](https://img.shields.io/badge/RESUME_RU-00FF00?style=for-the-badge&logo=RESUME_RU&logoColor=white)](https://ripple-wildflower-761.notion.site/c54c974dca7e4a66b63e46e56ecb4bb6?pvs=4)
