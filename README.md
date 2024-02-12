@@ -30,7 +30,7 @@
 ### Projects I've worked on
 | Project name | Description | Tools |
 |-|-|-|
-| [3DViewer_on_CPP](https://github.com/Dalkory/3DViewer_on_CPP)|Develop|C++, Make, QT, OpenGL, GoogleTest|
+| [3DViewer_on_CPP](https://github.com/Dalkory/3DViewer_on_CPP)|Program for viewing 3D objects from .obj files|C++, Make, QT, OpenGL, GoogleTest|
 | [SmartCalc_on_CPP](https://github.com/Dalkory/SmartCalcCPP)|Implementation of a calculator with a user interface, mathematical functions and plotting graphs|C++, Make, QT, QCustomPlot, GoogleTest|
 | [SQL_RetailAnalitycs](https://github.com/Dalkory/SQL_RetailAnalitycs)|Retail analytics data upload, its simple analysis, statistics, customer segmentation and creation of personal offers|Postgresql|
 | [CPP_Containers](https://github.com/Dalkory/CPP_Containers)|Implementation of (C++) containers: list, stack, queue, set, multiset, map, vector, array|C++, Make, GoogleTest|
