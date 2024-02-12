@@ -13,8 +13,8 @@
 
 ### Languages and tools
 
-![C#](https://img.shields.io/badge/-C#-1E7775?style=for-the-badge&logo=C#&logoColor=6296CC)
 ![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
+![C#](https://img.shields.io/badge/-C#-1E7775?style=for-the-badge&logo=C#&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C++%2b%2b&logoColor=6296CC)
 ![QT](https://img.shields.io/badge/-QT-1E7775?style=for-the-badge&logo=QT&logoColor=6296CC)
 ![Make](https://img.shields.io/badge/-Make-1E7775?style=for-the-badge&logo=Make&logoColor=6296CC)
