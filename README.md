@@ -13,7 +13,7 @@
 
 ### Languages and tools
 
-![.NET(C#)](https://img.shields.io/badge/-.NET-1E7775?style=for-the-badge&logo=.NET&logoColor=6296CC)
+![.NET(C#)](https://img.shields.io/badge/-.NET(C#)-1E7775?style=for-the-badge&logo=.NET&logoColor=6296CC)
 ![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C++%2b%2b&logoColor=6296CC)
 ![QT](https://img.shields.io/badge/-QT-1E7775?style=for-the-badge&logo=QT&logoColor=6296CC)
