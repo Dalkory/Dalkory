@@ -20,6 +20,7 @@
 ![Make](https://img.shields.io/badge/-Make-1E7775?style=for-the-badge&logo=Make&logoColor=6296CC)
 ![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=Bash&logoColor=6296CC)
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-1E7775?style=for-the-badge&logo=POSTGRESQL&logoColor=6296CC)
+![Pandas](https://img.shields.io/badge/-Pandas-1E7775?style=for-the-badge&logo=Pandas&logoColor=6296CC)
 
 
 ![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=Linux&logoColor=6296CC)
