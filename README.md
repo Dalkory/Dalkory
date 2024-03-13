@@ -5,7 +5,7 @@
 [![RESUME_RU](https://img.shields.io/badge/RESUME_RU-00FF00?style=for-the-badge&logo=RESUME_RU&logoColor=white)](https://ripple-wildflower-761.notion.site/c54c974dca7e4a66b63e46e56ecb4bb6?pvs=4)
 [![RESUME_A4](https://img.shields.io/badge/RESUME_A4-00FF00?style=for-the-badge&logo=RESUME_A4&logoColor=white)](https://www.figma.com/file/8gBIGUkalCt9mr8ZisW3wQ/Resume?type=whiteboard&node-id=0%3A1&t=jS8b6RyPAkgqzx4n-1)
 
-[![telegram](https://img.shields.io/badge/Dalkory-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtaushkanov)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtaushkanov)
 
 - 🔭 I’m currently studying on School 21 🎓
 - 🌱 I’m currently learning C# 💻
@@ -29,6 +29,9 @@
 ![Gitlab_CICD](https://img.shields.io/badge/-Gitlab_CICD-1E7775?style=for-the-badge&logo=Gitlab_CICD&logoColor=6296CC)
 ![Qcov_Report](https://img.shields.io/badge/-Qcov_Report-1E7775?style=for-the-badge&logo=Qcov_Report&logoColor=6296CC)
 ![GTEST](https://img.shields.io/badge/-GTEST-1E7775?style=for-the-badge&logo=GTEST&logoColor=6296CC)
+
+### Leetcode:
+![Leetcode Stats](https://leetcard.jacoblin.cool/Dalkory?theme=light)
 
 ### Projects I've worked on
 | Project name | Description | Tools |
