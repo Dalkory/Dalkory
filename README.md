@@ -16,6 +16,7 @@
 ![.NET(C#)](https://img.shields.io/badge/-.NET-1E7775?style=for-the-badge&logo=.NET&logoColor=6296CC)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1E7775?style=for-the-badge&logo=TypeScript&logoColor=6296CC)
 ![SQL](https://img.shields.io/badge/-SQL-1E7775?style=for-the-badge&logo=SQL&logoColor=6296CC)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework-1E7775?style=for-the-badge&logo=Entity_Framework&logoColor=6296CC)
 
 ![Angular](https://img.shields.io/badge/-Angular-1E7775?style=for-the-badge&logo=Angular&logoColor=6296CC)
 ![REST API](https://img.shields.io/badge/-REST_API-1E7775?style=for-the-badge&logo=REST_API&logoColor=6296CC)
