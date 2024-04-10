@@ -32,8 +32,8 @@
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
 ![Docker](https://img.shields.io/badge/-Docker-1E7775?style=for-the-badge&logo=Docker&logoColor=6296CC)
 ![Gitlab_CICD](https://img.shields.io/badge/-Gitlab_CICD-1E7775?style=for-the-badge&logo=Gitlab_CICD&logoColor=6296CC)
-![Qcov_Report](https://img.shields.io/badge/-Qcov_Report-1E7775?style=for-the-badge&logo=Qcov_Report&logoColor=6296CC)
-![GTEST](https://img.shields.io/badge/-GTEST-1E7775?style=for-the-badge&logo=GTEST&logoColor=6296CC)
+![LINQ](https://img.shields.io/badge/-LINQ-1E7775?style=for-the-badge&logo=LINQ&logoColor=6296CC)
+
 
 ### Leetcode:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Dalkory?theme=light)
