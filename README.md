@@ -14,6 +14,7 @@
 ### Languages and tools
 
 ![.NET(C#)](https://img.shields.io/badge/-.NET-1E7775?style=for-the-badge&logo=.NET&logoColor=6296CC)
+![Angular](https://img.shields.io/badge/-Angular-1E7775?style=for-the-badge&logo=Angular&logoColor=6296CC)
 ![REST API](https://img.shields.io/badge/-REST_API-1E7775?style=for-the-badge&logo=REST_API&logoColor=6296CC)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-1E7775?style=for-the-badge&logo=ASP.NET&logoColor=6296CC)
 ![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
