@@ -14,32 +14,35 @@
 ### Languages and tools
 
 ![.NET Core](https://img.shields.io/badge/-.NET-1E7775?style=for-the-badge&logo=.NET&logoColor=6296CC)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-1E7775?style=for-the-badge&logo=ASP.NET&logoColor=6296CC)
+![LINQ](https://img.shields.io/badge/-LINQ-1E7775?style=for-the-badge&logo=LINQ&logoColor=6296CC)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1E7775?style=for-the-badge&logo=TypeScript&logoColor=6296CC)
-![SQL](https://img.shields.io/badge/-SQL-1E7775?style=for-the-badge&logo=SQL&logoColor=6296CC)
 ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-1E7775?style=for-the-badge&logo=Entity_Framework&logoColor=6296CC)
+![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-1E7775?style=for-the-badge&logo=POSTGRESQL&logoColor=6296CC)
 ![Jira](https://img.shields.io/badge/-Jira-1E7775?style=for-the-badge&logo=Jira&logoColor=6296CC)
 ![Postman](https://img.shields.io/badge/-Postman-1E7775?style=for-the-badge&logo=Postman&logoColor=6296CC)
+
+![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=Linux&logoColor=6296CC)
+
+![Angular](https://img.shields.io/badge/-Angular-1E7775?style=for-the-badge&logo=Angular&logoColor=6296CC)
+
+![SOLID](https://img.shields.io/badge/-SOLID-1E7775?style=for-the-badge&logo=SOLID&logoColor=6296CC)
 ![MVC](https://img.shields.io/badge/-MVC-1E7775?style=for-the-badge&logo=MVC&logoColor=6296CC)
 ![ООП](https://img.shields.io/badge/-ООП-1E7775?style=for-the-badge&logo=ООП&logoColor=6296CC)
-![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=Linux&logoColor=6296CC)
-![SOLID](https://img.shields.io/badge/-SOLID-1E7775?style=for-the-badge&logo=SOLID&logoColor=6296CC)
-![Angular](https://img.shields.io/badge/-Angular-1E7775?style=for-the-badge&logo=Angular&logoColor=6296CC)
-![REST API](https://img.shields.io/badge/-REST_API-1E7775?style=for-the-badge&logo=REST_API&logoColor=6296CC)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-1E7775?style=for-the-badge&logo=ASP.NET&logoColor=6296CC)
+
 ![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C++%2b%2b&logoColor=6296CC)
 ![QT](https://img.shields.io/badge/-QT-1E7775?style=for-the-badge&logo=QT&logoColor=6296CC)
 ![Make](https://img.shields.io/badge/-Make-1E7775?style=for-the-badge&logo=Make&logoColor=6296CC)
 ![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=Bash&logoColor=6296CC)
-![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-1E7775?style=for-the-badge&logo=POSTGRESQL&logoColor=6296CC)
-![Pandas](https://img.shields.io/badge/-Pandas-1E7775?style=for-the-badge&logo=Pandas&logoColor=6296CC)
-
 
 ![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=Linux&logoColor=6296CC)
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
 ![Docker](https://img.shields.io/badge/-Docker-1E7775?style=for-the-badge&logo=Docker&logoColor=6296CC)
 ![Gitlab_CICD](https://img.shields.io/badge/-Gitlab_CICD-1E7775?style=for-the-badge&logo=Gitlab_CICD&logoColor=6296CC)
-![LINQ](https://img.shields.io/badge/-LINQ-1E7775?style=for-the-badge&logo=LINQ&logoColor=6296CC)
+![REST API](https://img.shields.io/badge/-REST_API-1E7775?style=for-the-badge&logo=REST_API&logoColor=6296CC)
+![Pandas](https://img.shields.io/badge/-Pandas-1E7775?style=for-the-badge&logo=Pandas&logoColor=6296CC)
+
 
 
 ### Leetcode:
