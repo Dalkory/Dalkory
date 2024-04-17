@@ -16,6 +16,7 @@
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-1E7775?style=for-the-badge&logo=ASP.NET&logoColor=6296CC)
 ![.NET Core](https://img.shields.io/badge/-.NET-1E7775?style=for-the-badge&logo=.NET&logoColor=6296CC)
 ![LINQ](https://img.shields.io/badge/-LINQ-1E7775?style=for-the-badge&logo=LINQ&logoColor=6296CC)
+![WPF](https://img.shields.io/badge/-WPF-1E7775?style=for-the-badge&logo=WPF&logoColor=6296CC)
 ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-1E7775?style=for-the-badge&logo=Entity_Framework&logoColor=6296CC)
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-1E7775?style=for-the-badge&logo=POSTGRESQL&logoColor=6296CC)
 ![Angular](https://img.shields.io/badge/-Angular-1E7775?style=for-the-badge&logo=Angular&logoColor=6296CC)
