@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I write code in TypeScritp, C# 👨🏻‍💻
+### I write code in TypeScript , C# 👨🏻‍💻
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtaushkanov)
 
