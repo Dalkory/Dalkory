@@ -1,14 +1,10 @@
 ### Hi there 👋
-### I write code in C# 👨🏻‍💻
-
-[![RESUME_EN](https://img.shields.io/badge/RESUME_EN-00FF00?style=for-the-badge&logo=RESUME_EN&logoColor=white)](https://ripple-wildflower-761.notion.site/Daniil-Tauhkanov-5b24ccfa981a4ec2be6a329c91e288aa?pvs=4)
-[![RESUME_RU](https://img.shields.io/badge/RESUME_RU-00FF00?style=for-the-badge&logo=RESUME_RU&logoColor=white)](https://ripple-wildflower-761.notion.site/c54c974dca7e4a66b63e46e56ecb4bb6?pvs=4)
-[![RESUME_A4](https://img.shields.io/badge/RESUME_A4-00FF00?style=for-the-badge&logo=RESUME_A4&logoColor=white)](https://www.figma.com/file/8gBIGUkalCt9mr8ZisW3wQ/Resume?type=whiteboard&node-id=0%3A1&t=jS8b6RyPAkgqzx4n-1)
+### I write code in TypeScritp, C# 👨🏻‍💻
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtaushkanov)
 
-- 🔭 I’m currently studying on School 21 🎓
-- 🌱 I’m currently learning C# 💻
+- 🔭 I have successfully completed my studies at School 21 🎓
+- 🌱 I’m currently working for a European company 💻
 - 📫 How to reach me: [@dtaushkanov](https://t.me/dtaushkanov) (telegram) ✉️
 
 ### Languages and tools
@@ -16,16 +12,16 @@
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-1E7775?style=for-the-badge&logo=ASP.NET&logoColor=6296CC)
 ![.NET Core](https://img.shields.io/badge/-.NET-1E7775?style=for-the-badge&logo=.NET&logoColor=6296CC)
 ![LINQ](https://img.shields.io/badge/-LINQ-1E7775?style=for-the-badge&logo=LINQ&logoColor=6296CC)
-![WPF](https://img.shields.io/badge/-WPF-1E7775?style=for-the-badge&logo=WPF&logoColor=6296CC)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1E7775?style=for-the-badge&logo=MongoDB&logoColor=6296CC)
 ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-1E7775?style=for-the-badge&logo=Entity_Framework&logoColor=6296CC)
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-1E7775?style=for-the-badge&logo=POSTGRESQL&logoColor=6296CC)
-![Angular](https://img.shields.io/badge/-Angular-1E7775?style=for-the-badge&logo=Angular&logoColor=6296CC)
+![React](https://img.shields.io/badge/-React-1E7775?style=for-the-badge&logo=React&logoColor=6296CC)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1E7775?style=for-the-badge&logo=TypeScript&logoColor=6296CC)
 
 ![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=Linux&logoColor=6296CC)
-![Docker](https://img.shields.io/badge/-Docker-1E7775?style=for-the-badge&logo=Docker&logoColor=6296CC)
+![Mercurial](https://img.shields.io/badge/-Mercurial-1E7775?style=for-the-badge&logo=Mercurial&logoColor=6296CC)
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
-![Gitlab_CICD](https://img.shields.io/badge/-Gitlab_CICD-1E7775?style=for-the-badge&logo=Gitlab_CICD&logoColor=6296CC)
+![Jenkins](https://img.shields.io/badge/-Jenkins-1E7775?style=for-the-badge&logo=Jenkins&logoColor=6296CC)
 ![Postman](https://img.shields.io/badge/-Postman-1E7775?style=for-the-badge&logo=Postman&logoColor=6296CC)
 ![REST API](https://img.shields.io/badge/-REST_API-1E7775?style=for-the-badge&logo=REST_API&logoColor=6296CC)
 ![Jira](https://img.shields.io/badge/-Jira-1E7775?style=for-the-badge&logo=Jira&logoColor=6296CC)
