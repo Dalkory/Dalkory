@@ -43,9 +43,6 @@
 ### Projects I've worked on
 | Project name | Description | Tools |
 |-|-|-|
-| [MyTodoList](https://github.com/Dalkory/MyTodoList)|Basic TodoList|.NET(C#), ASP.NET Core MVC, Entity Framework, HTTP, SqlServer|
-| [DynamicSun](https://github.com/Dalkory/DynamicSun)|An application for displaying archives of weather conditions in the city of Moscow|.NET(C#), ASP.NET Core MVC, Entity Framework, HTTP, PostgreSql|
-| [.NET(C#)_Intensive](https://github.com/Dalkory/.NET-C-_Intensive)|.NET(C#) training projects|.NET(C#)|
 | [3DViewer_on_CPP](https://github.com/Dalkory/3DViewer_on_CPP)|Program for viewing 3D objects from .obj files|C++, Make, QT, OpenGL, GoogleTest|
 | [SmartCalc_on_CPP](https://github.com/Dalkory/SmartCalcCPP)|Implementation of a calculator with a user interface, mathematical functions and plotting graphs|C++, Make, QT, QCustomPlot, GoogleTest|
 | [SQL_RetailAnalitycs](https://github.com/Dalkory/SQL_RetailAnalitycs)|Retail analytics data upload, its simple analysis, statistics, customer segmentation and creation of personal offers|PostgreSql|
