@@ -1,11 +1,11 @@
 ### Hi there 👋
 ### I write code in TypeScript , C# 👨🏻‍💻
 
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtaushkanov)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@aniildotnet)
 
 - 🔭 I have successfully completed my studies at School 21 🎓
 - 🌱 I’m currently working for a European company 💻
-- 📫 How to reach me: [@dtaushkanov](https://t.me/dtaushkanov) (telegram) ✉️
+- 📫 How to reach me: [@daniildotnet](https://t.me/daniildotnet) (telegram) ✉️
 
 ### Languages and tools
 
