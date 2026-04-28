@@ -37,9 +37,6 @@
 ![SOLID](https://img.shields.io/badge/-SOLID-1E7775?style=for-the-badge&logo=SOLID&logoColor=6296CC)
 ![OOP](https://img.shields.io/badge/-OOP-1E7775?style=for-the-badge&logo=OOP&logoColor=6296CC)
 
-### Leetcode:
-![Leetcode Stats](https://leetcard.jacoblin.cool/Dalkory?theme=light)
-
 ### Projects I've worked on
 | Project name | Description | Tools |
 |-|-|-|
