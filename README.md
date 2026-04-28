@@ -1,60 +1,217 @@
-### Hi there 👋
-### I write code in TypeScript , C# 👨🏻‍💻
+# Dev Growth Academy 🚀
 
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@aniildotnet)
+### Practical backend growth for C# / .NET developers
 
-- 🔭 I have successfully completed my studies at School 21 🎓
-- 🌱 I’m currently working for a European company 💻
-- 📫 How to reach me: [@daniildotnet](https://t.me/daniildotnet) (telegram) ✉️
+Hi, I'm **Daniil Taushkanov** — a **C# Backend Developer** working with **.NET, ASP.NET Core, PostgreSQL, clean architecture, testing and production-ready backend systems**.
 
-### Languages and tools
+I use this GitHub profile as a public knowledge base for **Dev Growth Academy** — a place where I publish code examples, educational repositories, backend patterns, refactoring examples and practical materials from my videos.
 
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-1E7775?style=for-the-badge&logo=ASP.NET&logoColor=6296CC)
-![.NET Core](https://img.shields.io/badge/-.NET-1E7775?style=for-the-badge&logo=.NET&logoColor=6296CC)
-![LINQ](https://img.shields.io/badge/-LINQ-1E7775?style=for-the-badge&logo=LINQ&logoColor=6296CC)
-![MongoDB](https://img.shields.io/badge/-MongoDB-1E7775?style=for-the-badge&logo=MongoDB&logoColor=6296CC)
-![Entity Framework](https://img.shields.io/badge/-Entity_Framework-1E7775?style=for-the-badge&logo=Entity_Framework&logoColor=6296CC)
-![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-1E7775?style=for-the-badge&logo=POSTGRESQL&logoColor=6296CC)
-![React](https://img.shields.io/badge/-React-1E7775?style=for-the-badge&logo=React&logoColor=6296CC)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1E7775?style=for-the-badge&logo=TypeScript&logoColor=6296CC)
+My goal is simple: help developers grow from **Junior to Middle/Senior** through real backend practice, not just theory.
 
-![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=Linux&logoColor=6296CC)
-![Mercurial](https://img.shields.io/badge/-Mercurial-1E7775?style=for-the-badge&logo=Mercurial&logoColor=6296CC)
-![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
-![Jenkins](https://img.shields.io/badge/-Jenkins-1E7775?style=for-the-badge&logo=Jenkins&logoColor=6296CC)
-![Postman](https://img.shields.io/badge/-Postman-1E7775?style=for-the-badge&logo=Postman&logoColor=6296CC)
-![REST API](https://img.shields.io/badge/-REST_API-1E7775?style=for-the-badge&logo=REST_API&logoColor=6296CC)
-![Jira](https://img.shields.io/badge/-Jira-1E7775?style=for-the-badge&logo=Jira&logoColor=6296CC)
+---
 
-![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
-![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C++%2b%2b&logoColor=6296CC)
-![QT](https://img.shields.io/badge/-QT-1E7775?style=for-the-badge&logo=QT&logoColor=6296CC)
-![Make](https://img.shields.io/badge/-Make-1E7775?style=for-the-badge&logo=Make&logoColor=6296CC)
-![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=Bash&logoColor=6296CC)
-![MVC](https://img.shields.io/badge/-MVC-1E7775?style=for-the-badge&logo=MVC&logoColor=6296CC)
-![Pandas](https://img.shields.io/badge/-Pandas-1E7775?style=for-the-badge&logo=Pandas&logoColor=6296CC)
+## 🎯 What you will find here
 
-![SOLID](https://img.shields.io/badge/-SOLID-1E7775?style=for-the-badge&logo=SOLID&logoColor=6296CC)
-![OOP](https://img.shields.io/badge/-OOP-1E7775?style=for-the-badge&logo=OOP&logoColor=6296CC)
+- Practical examples from YouTube videos
+- C# / .NET backend projects
+- ASP.NET Core API examples
+- PostgreSQL and EF Core practice
+- Clean Architecture examples
+- Testing examples: unit tests, integration tests, testable code
+- Code review examples and refactoring cases
+- Interview preparation materials for .NET backend developers
+- Production-ready backend patterns: logging, validation, transactions, background jobs, Docker, CI/CD
 
-### Projects I've worked on
-| Project name | Description | Tools |
-|-|-|-|
-| [3DViewer_on_CPP](https://github.com/Dalkory/3DViewer_on_CPP)|Program for viewing 3D objects from .obj files|C++, Make, QT, OpenGL, GoogleTest|
-| [SmartCalc_on_CPP](https://github.com/Dalkory/SmartCalcCPP)|Implementation of a calculator with a user interface, mathematical functions and plotting graphs|C++, Make, QT, QCustomPlot, GoogleTest|
-| [SQL_RetailAnalitycs](https://github.com/Dalkory/SQL_RetailAnalitycs)|Retail analytics data upload, its simple analysis, statistics, customer segmentation and creation of personal offers|PostgreSql|
-| [CPP_Containers](https://github.com/Dalkory/CPP_Containers)|Implementation of (C++) containers: list, stack, queue, set, multiset, map, vector, array|C++, Make, GoogleTest|
-| [3DViewer_on_C](https://github.com/Dalkory/3DViewer_on_C)|Program for viewing 3D objects from .obj files|C++, C, Make, QT, QGraphicsScene, Check tests|
-| [SmartCalc_on_C](https://github.com/Dalkory/SmartCalc)|Implementation of a calculator with a user interface, mathematical functions and plotting graphs|C++, C, Make, QT, QCustomPlot, Check tests|
-| [CPP_MatrixClass](https://github.com/Dalkory/matrix_oop.h)|Library for working with matrices (C++)|C++, Make, GoogleTest|
-| [SQL_Info_21](https://github.com/Dalkory/Info_21)|Data analysis and statistics for School 21|PostgreSql|
-| [SQL_Intensive](https://github.com/Dalkory/SQL_Intensive)|SQL training projects|Postgresql|
-| [string.h++](https://github.com/Dalkory/String_Sprintf_Sscanf)| Implementation of some functions of the string.h library| C, Make, Check tests|
-| [decimal.h](https://github.com/Dalkory/Decimal)| Implementation of decimal.h library from C#| C, Make, Check tests|
-| [SimpleBashUtils](https://github.com/Dalkory/SimpleBashUtils)| Implementation of of Bash text utilities: cat, grep|C, Make, Check tests|
-| [matrix.h](https://github.com/Dalkory/Matrix)|Library for working with matrices(C)| C, Make, Check tests|
-| [math.h](https://github.com/Dalkory/Math)| Implementation of some functions of the math.h library| C, Make, Check tests|
-| [CICD](https://github.com/Dalkory/CICD_GITLAB)| Training project on building, testing and deployment using GitLab CI/CD| GitLab CI/CD|
-| [Docker](https://github.com/Dalkory/SimpleDocker)| Training project on developing docker image with server|Docker, Bash, C, FastCgi, nginx, Dockle, Docker Compose|
-| [LinuxNetwork](https://github.com/Dalkory/LinuxNetwork)| Training project on network configuration on Linux virtual machines|Linux, ipcalc, netstat, iperf3, iptables, nmap, dhcp server, apache2, ssh|
-| [LinuxMonitoring_v1.0](https://github.com/Dalkory/LinuxMonitoring_v1.0) and [LinuxMonitoring_v2.0](https://github.com/Dalkory/LinuxMonitoring_v2.0)| Training project on bash scripting and system research| Linux, Bash, vmstat, find, du, grep, awk, sort, time|
+---
+
+## 🧭 Dev Growth Academy
+
+**Dev Growth Academy** is my educational brand focused on helping developers improve their backend engineering skills.
+
+Main topics:
+
+- C# and .NET
+- ASP.NET Core
+- PostgreSQL
+- Entity Framework Core
+- Clean Architecture
+- SOLID and OOP
+- Testing
+- Code Review
+- Backend architecture
+- Developer career growth
+
+If you are learning backend development or preparing to grow as a .NET developer, this profile will become a structured library of practical examples.
+
+---
+
+## 📌 Start here
+
+> These repositories will be added and updated as I publish new videos and educational materials.
+
+| Repository | What it will contain | Status |
+|---|---|---|
+| `dotnet-backend-roadmap` | Roadmap for Junior → Middle .NET backend growth | Planned |
+| `aspnetcore-clean-architecture` | Practical Clean Architecture example in ASP.NET Core | Planned |
+| `efcore-postgresql-practice` | EF Core + PostgreSQL examples, queries, migrations, performance | Planned |
+| `dotnet-code-review-examples` | Bad code → better code: refactoring and review examples | Planned |
+| `backend-interview-prep` | .NET backend interview questions, answers and examples | Planned |
+| `production-ready-api` | Logging, validation, error handling, Docker, CI/CD, tests | Planned |
+
+---
+
+## 🛠️ Main stack
+
+![C#](https://img.shields.io/badge/C%23-1E7775?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-1E7775?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1E7775?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-1E7775?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E7775?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1E7775?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1E7775?style=for-the-badge&logo=git&logoColor=F88C00)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1E7775?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-1E7775?style=for-the-badge&logo=react&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1E7775?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1E7775?style=for-the-badge&logo=linux&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-1E7775?style=for-the-badge&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-1E7775?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🧠 Topics I teach and write about
+
+### Backend Development
+
+- ASP.NET Core Web API
+- REST API design
+- Dependency Injection
+- Middleware
+- Validation
+- Error handling
+- Logging
+- Background jobs
+- Authentication and authorization
+
+### Architecture
+
+- Clean Architecture
+- SOLID
+- DDD basics
+- CQRS basics
+- Layered architecture
+- Use cases and application services
+- Repository pattern: when it helps and when it does not
+
+### PostgreSQL and EF Core
+
+- Database schema design
+- Migrations
+- Indexes
+- Transactions
+- Query optimization
+- EF Core tracking
+- N+1 problem
+- `AsNoTracking`
+- SQL generated by EF Core
+
+### Testing
+
+- Unit testing
+- Integration testing
+- Testable business logic
+- Mocking without overengineering
+- Testing ASP.NET Core APIs
+
+### Career Growth
+
+- Junior → Middle roadmap
+- Middle → Senior mindset
+- Code review thinking
+- Interview preparation
+- Real production practices
+
+---
+
+## 📚 Educational repositories
+
+### Current projects
+
+| Project name | Description | Stack |
+|---|---|---|
+| [StrideFlow](https://github.com/Dalkory/StrideFlow) | C# project that will be improved and used for backend practice examples | C#, .NET |
+| [SQL_RetailAnalitycs](https://github.com/Dalkory/SQL_RetailAnalitycs) | Retail analytics, customer segmentation and personal offers | PostgreSQL |
+| [SQL_Info_21](https://github.com/Dalkory/Info_21) | Data analysis and statistics for School 21 | PostgreSQL |
+| [SQL_Intensive](https://github.com/Dalkory/SQL_Intensive) | SQL training projects | PostgreSQL |
+| [CICD_GITLAB](https://github.com/Dalkory/CICD_GITLAB) | Training project for build, test and deployment pipeline | GitLab CI/CD |
+| [SimpleDocker](https://github.com/Dalkory/SimpleDocker) | Docker image, server setup and container practice | Docker, Bash, C, nginx |
+
+### Earlier learning projects
+
+| Project name | Description | Stack |
+|---|---|---|
+| [3DViewer_on_CPP](https://github.com/Dalkory/3DViewer_on_CPP) | Program for viewing 3D objects from `.obj` files | C++, Make, Qt, OpenGL, GoogleTest |
+| [SmartCalc_on_CPP](https://github.com/Dalkory/SmartCalcCPP) | Calculator with UI, mathematical functions and graph plotting | C++, Qt, QCustomPlot, GoogleTest |
+| [CPP_Containers](https://github.com/Dalkory/CPP_Containers) | Implementation of C++ containers: list, stack, queue, set, map, vector, array | C++, GoogleTest |
+| [3DViewer_on_C](https://github.com/Dalkory/3DViewer_on_C) | Program for viewing 3D objects from `.obj` files | C, C++, Qt |
+| [SmartCalc_on_C](https://github.com/Dalkory/SmartCalc) | Calculator with UI, functions and graph plotting | C, C++, Qt |
+| [CPP_MatrixClass](https://github.com/Dalkory/matrix_oop.h) | Matrix library in C++ | C++, GoogleTest |
+| [String_Sprintf_Sscanf](https://github.com/Dalkory/String_Sprintf_Sscanf) | Implementation of string functions and formatting utilities | C |
+| [Decimal](https://github.com/Dalkory/Decimal) | Custom decimal library inspired by C# decimal behavior | C |
+| [Matrix](https://github.com/Dalkory/Matrix) | Matrix library in C | C |
+| [Math](https://github.com/Dalkory/Math) | Implementation of math library functions | C |
+| [SimpleBashUtils](https://github.com/Dalkory/SimpleBashUtils) | Implementation of Bash utilities: `cat`, `grep` | C, Bash |
+| [LinuxNetwork](https://github.com/Dalkory/LinuxNetwork) | Linux network configuration practice | Linux, iptables, nmap, DHCP, Apache, SSH |
+| [LinuxMonitoring_v1.0](https://github.com/Dalkory/LinuxMonitoring_v1.0) / [LinuxMonitoring_v2.0](https://github.com/Dalkory/LinuxMonitoring_v2.0) | Bash scripting and Linux system monitoring | Linux, Bash |
+
+---
+
+## 🎥 Code from videos
+
+Soon this section will contain repositories connected to Dev Growth Academy videos.
+
+Format:
+
+| Video | Repository | Topic |
+|---|---|---|
+| Coming soon | Coming soon | C# / .NET / PostgreSQL |
+
+Each repository will include:
+
+- Source code
+- README explanation
+- Task description
+- Step-by-step learning notes
+- Possible improvements
+- Links to related videos
+
+---
+
+## 🤝 Mentorship
+
+I help developers improve their backend skills through practical work:
+
+- Code review
+- Roadmap planning
+- Backend architecture explanation
+- .NET and PostgreSQL practice
+- Interview preparation
+- Refactoring and production mindset
+
+If you want to grow as a C#/.NET backend developer, you can contact me in Telegram.
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact_me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daniildotnet)
+
+---
+
+## 📫 Contacts
+
+- Telegram: [@daniildotnet](https://t.me/daniildotnet)
+- GitHub: [github.com/Dalkory](https://github.com/Dalkory)
+- Brand: **Dev Growth Academy**
+
+---
+
+> Build real backend skills.  
+> Write clean code.  
+> Grow as a developer.
