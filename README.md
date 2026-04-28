@@ -1,217 +1,244 @@
 # Dev Growth Academy 🚀
 
-### Practical backend growth for C# / .NET developers
+### Практический backend-разбор для C# / .NET разработчиков
 
-Hi, I'm **Daniil Taushkanov** — a **C# Backend Developer** working with **.NET, ASP.NET Core, PostgreSQL, clean architecture, testing and production-ready backend systems**.
+Привет! Меня зовут **Данил Таушканов**.
 
-I use this GitHub profile as a public knowledge base for **Dev Growth Academy** — a place where I publish code examples, educational repositories, backend patterns, refactoring examples and practical materials from my videos.
+Я **C# / .NET Backend Developer** с опытом в продуктовой и международной разработке. Работаю с **ASP.NET Core, PostgreSQL, RabbitMQ, Kafka, Redis, Docker, Kubernetes, CI/CD, микросервисами, DDD, CQRS и production-ready backend-системами**.
 
-My goal is simple: help developers grow from **Junior to Middle/Senior** through real backend practice, not just theory.
+Этот GitHub-профиль я развиваю как публичную базу знаний для **Dev Growth Academy** — здесь будут появляться учебные репозитории, примеры кода из видео, разборы архитектуры, задачи, code review и практические материалы для роста backend-разработчиков.
 
----
-
-## 🎯 What you will find here
-
-- Practical examples from YouTube videos
-- C# / .NET backend projects
-- ASP.NET Core API examples
-- PostgreSQL and EF Core practice
-- Clean Architecture examples
-- Testing examples: unit tests, integration tests, testable code
-- Code review examples and refactoring cases
-- Interview preparation materials for .NET backend developers
-- Production-ready backend patterns: logging, validation, transactions, background jobs, Docker, CI/CD
+Моя цель — помогать разработчикам расти от **Junior к Middle/Senior** через реальные backend-практики, а не через абстрактную теорию.
 
 ---
 
-## 🧭 Dev Growth Academy
+## 🎯 Что ты найдёшь в этом профиле
 
-**Dev Growth Academy** is my educational brand focused on helping developers improve their backend engineering skills.
+- Код из видео Dev Growth Academy
+- Практические примеры на C# и .NET
+- ASP.NET Core Web API проекты
+- PostgreSQL и EF Core примеры
+- Clean Architecture на практике
+- Примеры unit и integration тестов
+- Разборы плохого и хорошего кода
+- Code review примеры
+- Подготовку к backend-собеседованиям
+- Production-подходы: логирование, валидация, транзакции, фоновые задачи, Docker, CI/CD
 
-Main topics:
+---
 
-- C# and .NET
+## 🧭 О Dev Growth Academy
+
+**Dev Growth Academy** — это мой образовательный проект для C# / .NET backend-разработчиков.
+
+Здесь я разбираю:
+
+- C# и .NET
 - ASP.NET Core
 - PostgreSQL
 - Entity Framework Core
 - Clean Architecture
-- SOLID and OOP
-- Testing
+- SOLID и ООП
+- Unit и integration testing
 - Code Review
 - Backend architecture
-- Developer career growth
+- Микросервисы
+- RabbitMQ / Kafka
+- Docker и CI/CD
+- Рост разработчика от Junior до Middle/Senior
 
-If you are learning backend development or preparing to grow as a .NET developer, this profile will become a structured library of practical examples.
+Главный фокус — **практика, архитектурное мышление и production-подход**.
 
 ---
 
-## 📌 Start here
+## 📌 С чего начать
 
-> These repositories will be added and updated as I publish new videos and educational materials.
+> Этот раздел будет обновляться по мере выхода видео и новых учебных репозиториев.
 
-| Repository | What it will contain | Status |
+| Репозиторий | Что внутри | Статус |
 |---|---|---|
-| `dotnet-backend-roadmap` | Roadmap for Junior → Middle .NET backend growth | Planned |
-| `aspnetcore-clean-architecture` | Practical Clean Architecture example in ASP.NET Core | Planned |
-| `efcore-postgresql-practice` | EF Core + PostgreSQL examples, queries, migrations, performance | Planned |
-| `dotnet-code-review-examples` | Bad code → better code: refactoring and review examples | Planned |
-| `backend-interview-prep` | .NET backend interview questions, answers and examples | Planned |
-| `production-ready-api` | Logging, validation, error handling, Docker, CI/CD, tests | Planned |
+| `dotnet-backend-roadmap` | Roadmap роста Junior → Middle .NET Backend Developer | Планируется |
+| `aspnetcore-clean-architecture` | Практический пример Clean Architecture на ASP.NET Core | Планируется |
+| `efcore-postgresql-practice` | EF Core + PostgreSQL: миграции, индексы, запросы, performance | Планируется |
+| `dotnet-code-review-examples` | Плохой код → хороший код: refactoring и code review | Планируется |
+| `backend-interview-prep` | Вопросы, ответы и примеры для .NET backend собеседований | Планируется |
+| `production-ready-api` | API с логированием, валидацией, тестами, Docker и CI/CD | Планируется |
 
 ---
 
-## 🛠️ Main stack
+## 🛠️ Основной стек
 
 ![C#](https://img.shields.io/badge/C%23-1E7775?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-1E7775?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1E7775?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-1E7775?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E7775?style=for-the-badge&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1E7775?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-1E7775?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-1E7775?style=for-the-badge&logo=redis&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-1E7775?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1E7775?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1E7775?style=for-the-badge&logo=git&logoColor=F88C00)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-1E7775?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1E7775?style=for-the-badge&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-1E7775?style=for-the-badge&logo=postman&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1E7775?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-1E7775?style=for-the-badge&logo=react&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1E7775?style=for-the-badge&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1E7775?style=for-the-badge&logo=linux&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-1E7775?style=for-the-badge&logo=jenkins&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-1E7775?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🧠 Topics I teach and write about
+## 🧠 Темы, которые я разбираю
 
-### Backend Development
+### Backend-разработка
 
 - ASP.NET Core Web API
-- REST API design
+- REST API
 - Dependency Injection
 - Middleware
-- Validation
-- Error handling
-- Logging
+- Валидация
+- Обработка ошибок
+- Логирование
 - Background jobs
-- Authentication and authorization
+- Authentication / Authorization
+- Работа с конфигурацией
+- Интеграции с внешними сервисами
 
-### Architecture
+### Архитектура
 
 - Clean Architecture
 - SOLID
-- DDD basics
-- CQRS basics
-- Layered architecture
-- Use cases and application services
-- Repository pattern: when it helps and when it does not
+- ООП
+- DDD
+- CQRS
+- Микросервисная архитектура
+- Application services
+- Use cases
+- Repository pattern: когда нужен, а когда мешает
+- Границы слоёв
+- Поддерживаемость кода
 
-### PostgreSQL and EF Core
+### PostgreSQL и EF Core
 
-- Database schema design
-- Migrations
-- Indexes
-- Transactions
-- Query optimization
+- Проектирование схемы БД
+- Миграции
+- Индексы
+- Транзакции
+- Оптимизация SQL-запросов
 - EF Core tracking
-- N+1 problem
 - `AsNoTracking`
-- SQL generated by EF Core
+- N+1 проблема
+- Анализ SQL, который генерирует EF Core
+- Производительность запросов
 
-### Testing
+### Тестирование
 
-- Unit testing
-- Integration testing
-- Testable business logic
-- Mocking without overengineering
-- Testing ASP.NET Core APIs
+- Unit-тесты
+- Integration-тесты
+- Тестируемая бизнес-логика
+- Как не замокать весь проект
+- Тестирование ASP.NET Core API
+- Тесты как часть production-ready разработки
 
-### Career Growth
+### Карьерный рост
 
-- Junior → Middle roadmap
-- Middle → Senior mindset
-- Code review thinking
-- Interview preparation
-- Real production practices
-
----
-
-## 📚 Educational repositories
-
-### Current projects
-
-| Project name | Description | Stack |
-|---|---|---|
-| [StrideFlow](https://github.com/Dalkory/StrideFlow) | C# project that will be improved and used for backend practice examples | C#, .NET |
-| [SQL_RetailAnalitycs](https://github.com/Dalkory/SQL_RetailAnalitycs) | Retail analytics, customer segmentation and personal offers | PostgreSQL |
-| [SQL_Info_21](https://github.com/Dalkory/Info_21) | Data analysis and statistics for School 21 | PostgreSQL |
-| [SQL_Intensive](https://github.com/Dalkory/SQL_Intensive) | SQL training projects | PostgreSQL |
-| [CICD_GITLAB](https://github.com/Dalkory/CICD_GITLAB) | Training project for build, test and deployment pipeline | GitLab CI/CD |
-| [SimpleDocker](https://github.com/Dalkory/SimpleDocker) | Docker image, server setup and container practice | Docker, Bash, C, nginx |
-
-### Earlier learning projects
-
-| Project name | Description | Stack |
-|---|---|---|
-| [3DViewer_on_CPP](https://github.com/Dalkory/3DViewer_on_CPP) | Program for viewing 3D objects from `.obj` files | C++, Make, Qt, OpenGL, GoogleTest |
-| [SmartCalc_on_CPP](https://github.com/Dalkory/SmartCalcCPP) | Calculator with UI, mathematical functions and graph plotting | C++, Qt, QCustomPlot, GoogleTest |
-| [CPP_Containers](https://github.com/Dalkory/CPP_Containers) | Implementation of C++ containers: list, stack, queue, set, map, vector, array | C++, GoogleTest |
-| [3DViewer_on_C](https://github.com/Dalkory/3DViewer_on_C) | Program for viewing 3D objects from `.obj` files | C, C++, Qt |
-| [SmartCalc_on_C](https://github.com/Dalkory/SmartCalc) | Calculator with UI, functions and graph plotting | C, C++, Qt |
-| [CPP_MatrixClass](https://github.com/Dalkory/matrix_oop.h) | Matrix library in C++ | C++, GoogleTest |
-| [String_Sprintf_Sscanf](https://github.com/Dalkory/String_Sprintf_Sscanf) | Implementation of string functions and formatting utilities | C |
-| [Decimal](https://github.com/Dalkory/Decimal) | Custom decimal library inspired by C# decimal behavior | C |
-| [Matrix](https://github.com/Dalkory/Matrix) | Matrix library in C | C |
-| [Math](https://github.com/Dalkory/Math) | Implementation of math library functions | C |
-| [SimpleBashUtils](https://github.com/Dalkory/SimpleBashUtils) | Implementation of Bash utilities: `cat`, `grep` | C, Bash |
-| [LinuxNetwork](https://github.com/Dalkory/LinuxNetwork) | Linux network configuration practice | Linux, iptables, nmap, DHCP, Apache, SSH |
-| [LinuxMonitoring_v1.0](https://github.com/Dalkory/LinuxMonitoring_v1.0) / [LinuxMonitoring_v2.0](https://github.com/Dalkory/LinuxMonitoring_v2.0) | Bash scripting and Linux system monitoring | Linux, Bash |
+- Roadmap Junior → Middle
+- Как мыслит Senior-разработчик
+- Как проходить code review
+- Как готовиться к .NET backend собеседованию
+- Какие темы реально нужны после CRUD
+- Как расти через практику, а не через бесконечные курсы
 
 ---
 
-## 🎥 Code from videos
+## 📚 Учебные репозитории
 
-Soon this section will contain repositories connected to Dev Growth Academy videos.
+### Актуальные и будущие проекты Dev Growth Academy
 
-Format:
-
-| Video | Repository | Topic |
+| Проект | Описание | Стек |
 |---|---|---|
-| Coming soon | Coming soon | C# / .NET / PostgreSQL |
-
-Each repository will include:
-
-- Source code
-- README explanation
-- Task description
-- Step-by-step learning notes
-- Possible improvements
-- Links to related videos
+| `dotnet-backend-roadmap` | Пошаговый план роста для C# / .NET backend-разработчика | C#, .NET, Backend |
+| `aspnetcore-clean-architecture` | Учебный проект с Clean Architecture на ASP.NET Core | C#, ASP.NET Core, EF Core |
+| `efcore-postgresql-practice` | Практика по PostgreSQL, EF Core, миграциям и оптимизации запросов | C#, EF Core, PostgreSQL |
+| `dotnet-code-review-examples` | Примеры code review: плохой код, проблемы, улучшения | C#, Refactoring |
+| `backend-interview-prep` | Вопросы и ответы для подготовки к .NET backend собеседованиям | C#, .NET, SQL |
+| `production-ready-api` | API с Docker, логированием, тестами, CI/CD и production-подходом | ASP.NET Core, Docker, CI/CD |
 
 ---
 
-## 🤝 Mentorship
+## 🧩 Мои текущие и прошлые проекты
 
-I help developers improve their backend skills through practical work:
+Эти проекты показывают мой путь в разработке: от C/C++ и системных задач до SQL, Docker, CI/CD и backend-разработки.
 
+| Проект | Описание | Стек |
+|---|---|---|
+| [StrideFlow](https://github.com/Dalkory/StrideFlow) | C# проект, который можно развивать как практический backend-пример | C#, .NET |
+| [SQL_RetailAnalitycs](https://github.com/Dalkory/SQL_RetailAnalitycs) | Розничная аналитика, сегментация клиентов и персональные предложения | PostgreSQL |
+| [SQL_Info_21](https://github.com/Dalkory/Info_21) | Аналитика и статистика для School 21 | PostgreSQL |
+| [SQL_Intensive](https://github.com/Dalkory/SQL_Intensive) | Учебные SQL-проекты | PostgreSQL |
+| [CICD_GITLAB](https://github.com/Dalkory/CICD_GITLAB) | Сборка, тестирование и деплой через GitLab CI/CD | GitLab CI/CD |
+| [SimpleDocker](https://github.com/Dalkory/SimpleDocker) | Практика с Docker, сервером и контейнеризацией | Docker, Bash, C, nginx |
+| [3DViewer_on_CPP](https://github.com/Dalkory/3DViewer_on_CPP) | Программа для просмотра 3D-объектов из `.obj` файлов | C++, Qt, OpenGL |
+| [SmartCalc_on_CPP](https://github.com/Dalkory/SmartCalcCPP) | Калькулятор с интерфейсом, функциями и графиками | C++, Qt |
+| [CPP_Containers](https://github.com/Dalkory/CPP_Containers) | Реализация контейнеров C++: list, stack, queue, set, map, vector, array | C++, GoogleTest |
+| [String_Sprintf_Sscanf](https://github.com/Dalkory/String_Sprintf_Sscanf) | Реализация функций строки и форматирования | C |
+| [Decimal](https://github.com/Dalkory/Decimal) | Реализация decimal-библиотеки | C |
+| [Matrix](https://github.com/Dalkory/Matrix) | Библиотека для работы с матрицами | C |
+| [Math](https://github.com/Dalkory/Math) | Реализация функций математической библиотеки | C |
+| [LinuxNetwork](https://github.com/Dalkory/LinuxNetwork) | Практика по настройке сетей в Linux | Linux, iptables, nmap, DHCP, SSH |
+| [LinuxMonitoring_v1.0](https://github.com/Dalkory/LinuxMonitoring_v1.0) / [LinuxMonitoring_v2.0](https://github.com/Dalkory/LinuxMonitoring_v2.0) | Bash-скрипты и мониторинг Linux-систем | Linux, Bash |
+
+---
+
+## 🎥 Код из видео
+
+В этом разделе будут появляться репозитории, связанные с видео Dev Growth Academy.
+
+| Видео | Репозиторий | Тема |
+|---|---|---|
+| Скоро | Скоро | C# / .NET / PostgreSQL |
+
+Каждый учебный репозиторий будет содержать:
+
+- Исходный код
+- README с объяснением
+- Задание
+- Разбор решения
+- Возможные улучшения
+- Ссылку на видео
+- Идеи для самостоятельной практики
+
+---
+
+## 🤝 Менторство
+
+Я помогаю C# / .NET разработчикам расти через практику:
+
+- Разбор уровня
 - Code review
-- Roadmap planning
-- Backend architecture explanation
-- .NET and PostgreSQL practice
-- Interview preparation
-- Refactoring and production mindset
+- Roadmap развития
+- Практика по C#, .NET, PostgreSQL
+- Подготовка к собеседованиям
+- Разбор архитектуры
+- Рефакторинг
+- Production-мышление
 
-If you want to grow as a C#/.NET backend developer, you can contact me in Telegram.
+Если хочешь прокачаться как backend-разработчик — можешь написать мне в Telegram.
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact_me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daniildotnet)
+[![Telegram](https://img.shields.io/badge/Telegram-написать_мне-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daniildotnet)
 
 ---
 
-## 📫 Contacts
+## 📫 Контакты
 
 - Telegram: [@daniildotnet](https://t.me/daniildotnet)
 - GitHub: [github.com/Dalkory](https://github.com/Dalkory)
-- Brand: **Dev Growth Academy**
+- Проект: **Dev Growth Academy**
 
 ---
 
-> Build real backend skills.  
-> Write clean code.  
-> Grow as a developer.
+> Пиши чистый код.  
+> Понимай архитектуру.  
+> Расти как backend-разработчик.
