@@ -26,6 +26,8 @@ My audits are fixed-scope and asynchronous. I review the codebase, validate the 
 
 The service is a technical codebase audit, not penetration testing or a guarantee that every security vulnerability will be found.
 
+[View a public sample audit report](https://github.com/Dalkory/PadelTrialSchedule/blob/main/docs/sample-audit-report.md)
+
 ## A practical first step
 
 **Pilot audit**
