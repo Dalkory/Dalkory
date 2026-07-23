@@ -27,14 +27,14 @@ My audits are fixed-scope and asynchronous. I review the codebase, validate the 
 
 The service is a technical codebase audit, not penetration testing or a guarantee that every security vulnerability will be found.
 
-[View a public sample audit report](https://github.com/Dalkory/PadelTrialSchedule/blob/main/docs/sample-audit-report.md)
+[View a public sample audit report](https://github.com/Dalkory/DotnetAuditDemo/blob/main/AUDIT_REPORT.md)
 
 ## A practical first step
 
 **Pilot audit**
 
-- one ASP.NET Core service or repository, usually up to 30â€“50k lines;
-- 5â€“7 high-value findings;
+- one ASP.NET Core service or repository, usually up to 30–50k lines;
+- 5–7 high-value findings;
 - short report and video walkthrough;
 - delivery in three business days;
 - no code changes and no long-term commitment.
@@ -45,6 +45,7 @@ Deeper audits and implementation work can follow only when the pilot shows clear
 
 | Repository | What it demonstrates |
 |---|---|
+| [DotnetAuditDemo](https://github.com/Dalkory/DotnetAuditDemo) | 15-finding ASP.NET Core audit, prioritized implementation plan, Docker/CI, and a five-fix before/after PR |
 | [PadelTrialSchedule](https://github.com/Dalkory/PadelTrialSchedule) | ASP.NET Core 10, EF Core, PostgreSQL, React, Docker, CI, accessibility, and Testcontainers integration tests |
 | [MarketDataAggregator](https://github.com/Dalkory/MarketDataAggregator) | WebSocket ingestion, normalization, bounded deduplication, batching, reconnect behavior, PostgreSQL, and load-focused tests |
 | [PromoOS](https://github.com/Dalkory/PromoOS) | ASP.NET Core notification service with JWT, EF Core, background email delivery, validation, and integration tests |
