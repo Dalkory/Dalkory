@@ -4,7 +4,8 @@ I help teams turn difficult ASP.NET Core repositories into a clear, prioritized 
 
 My audits are fixed-scope and asynchronous. I review the codebase, validate the highest-risk areas, and deliver evidence-backed findings that a team can act on without a long consulting engagement.
 
-[![Telegram](https://img.shields.io/badge/Telegram-Discuss_an_audit-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daniildotnet)
+[![Telegram](https://img.shields.io/badge/Telegram-Discuss_an_audit-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DanilDotNet)
+[![Email](https://img.shields.io/badge/Email-taushkanovdaniil%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taushkanovdaniil@gmail.com)
 
 ## What I review
 
@@ -72,5 +73,5 @@ Project updates: once per business day
 
 I am a C#/.NET backend developer with product and international development experience. My core stack includes ASP.NET Core, EF Core, PostgreSQL, Redis, RabbitMQ, Kafka, Docker, Kubernetes, and CI/CD.
 
-If you want a second opinion before a refactor, migration, hiring push, or AI-assisted development rollout, [message me on Telegram](https://t.me/daniildotnet) with the repository size, .NET version, and the three problems you care about most.
+If you want a second opinion before a refactor, migration, hiring push, or AI-assisted development rollout, [message me on Telegram](https://t.me/DanilDotNet) or email [taushkanovdaniil@gmail.com](mailto:taushkanovdaniil@gmail.com) with the repository size, .NET version, and the three problems you care about most.
 
