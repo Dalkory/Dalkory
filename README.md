@@ -1,244 +1,74 @@
-# Dev Growth Academy 🚀
+# .NET Backend & AI Readiness Audits
 
-### Практический backend-разбор для C# / .NET разработчиков
+I help teams turn difficult ASP.NET Core repositories into a clear, prioritized engineering plan.
 
-Привет! Меня зовут **Данил Таушканов**.
+My audits are fixed-scope and asynchronous. I review the codebase, validate the highest-risk areas, and deliver evidence-backed findings that a team can act on without a long consulting engagement.
 
-Я **C# / .NET Backend Developer** с опытом в продуктовой и международной разработке. Работаю с **ASP.NET Core, PostgreSQL, RabbitMQ, Kafka, Redis, Docker, Kubernetes, CI/CD, микросервисами, DDD, CQRS и production-ready backend-системами**.
+[![Telegram](https://img.shields.io/badge/Telegram-Discuss_an_audit-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daniildotnet)
 
-Этот GitHub-профиль я развиваю как публичную базу знаний для **Dev Growth Academy** — здесь будут появляться учебные репозитории, примеры кода из видео, разборы архитектуры, задачи, code review и практические материалы для роста backend-разработчиков.
+## What I review
 
-Моя цель — помогать разработчикам расти от **Junior к Middle/Senior** через реальные backend-практики, а не через абстрактную теорию.
+- architecture, boundaries, dependency direction, and maintainability;
+- ASP.NET Core composition, DI, configuration, error handling, and logging;
+- EF Core and SQL usage, query shape, transactions, indexes, and data-access risks;
+- performance, concurrency, background processing, and reliability;
+- authentication, authorization, secrets, dependencies, and baseline security hygiene;
+- unit/integration tests, CI/CD, Docker, and local reproducibility;
+- repository readiness for Codex, Copilot, and other AI coding agents.
 
----
+## What you receive
 
-## 🎯 Что ты найдёшь в этом профиле
+1. A concise architecture map.
+2. Prioritized findings with evidence, impact, and recommended action.
+3. A backlog grouped into **fix now**, **next sprint**, and **later**.
+4. An implementation-effort estimate for every finding.
+5. A written report and a recorded walkthrough.
 
-- Код из видео Dev Growth Academy
-- Практические примеры на C# и .NET
-- ASP.NET Core Web API проекты
-- PostgreSQL и EF Core примеры
-- Clean Architecture на практике
-- Примеры unit и integration тестов
-- Разборы плохого и хорошего кода
-- Code review примеры
-- Подготовку к backend-собеседованиям
-- Production-подходы: логирование, валидация, транзакции, фоновые задачи, Docker, CI/CD
+The service is a technical codebase audit, not penetration testing or a guarantee that every security vulnerability will be found.
 
----
+## A practical first step
 
-## 🧭 О Dev Growth Academy
+**Pilot audit**
 
-**Dev Growth Academy** — это мой образовательный проект для C# / .NET backend-разработчиков.
+- one ASP.NET Core service or repository, usually up to 30â€“50k lines;
+- 5â€“7 high-value findings;
+- short report and video walkthrough;
+- delivery in three business days;
+- no code changes and no long-term commitment.
 
-Здесь я разбираю:
+Deeper audits and implementation work can follow only when the pilot shows clear value.
 
-- C# и .NET
-- ASP.NET Core
-- PostgreSQL
-- Entity Framework Core
-- Clean Architecture
-- SOLID и ООП
-- Unit и integration testing
-- Code Review
-- Backend architecture
-- Микросервисы
-- RabbitMQ / Kafka
-- Docker и CI/CD
-- Рост разработчика от Junior до Middle/Senior
+## Selected .NET work
 
-Главный фокус — **практика, архитектурное мышление и production-подход**.
+| Repository | What it demonstrates |
+|---|---|
+| [PadelTrialSchedule](https://github.com/Dalkory/PadelTrialSchedule) | ASP.NET Core 10, EF Core, PostgreSQL, React, Docker, CI, accessibility, and Testcontainers integration tests |
+| [MarketDataAggregator](https://github.com/Dalkory/MarketDataAggregator) | WebSocket ingestion, normalization, bounded deduplication, batching, reconnect behavior, PostgreSQL, and load-focused tests |
+| [PromoOS](https://github.com/Dalkory/PromoOS) | ASP.NET Core notification service with JWT, EF Core, background email delivery, validation, and integration tests |
+| [StrideFlow](https://github.com/Dalkory/StrideFlow) | ASP.NET Core 8, PostgreSQL, Redis, SignalR, token rotation, rate limiting, and end-to-end tests |
 
----
+## AI readiness is more than adding a prompt file
 
-## 📌 С чего начать
+I check whether an AI coding agent can safely understand, build, test, and change the repository:
 
-> Этот раздел будет обновляться по мере выхода видео и новых учебных репозиториев.
+- clear architecture and ownership boundaries;
+- a reproducible local setup;
+- deterministic build, test, lint, and migration commands;
+- focused repository instructions and conventions;
+- fast feedback through tests and CI;
+- safe configuration and secret handling;
+- tasks that can be decomposed and verified without hidden context.
 
-| Репозиторий | Что внутри | Статус |
-|---|---|---|
-| `dotnet-backend-roadmap` | Roadmap роста Junior → Middle .NET Backend Developer | Планируется |
-| `aspnetcore-clean-architecture` | Практический пример Clean Architecture на ASP.NET Core | Планируется |
-| `efcore-postgresql-practice` | EF Core + PostgreSQL: миграции, индексы, запросы, performance | Планируется |
-| `dotnet-code-review-examples` | Плохой код → хороший код: refactoring и code review | Планируется |
-| `backend-interview-prep` | Вопросы, ответы и примеры для .NET backend собеседований | Планируется |
-| `production-ready-api` | API с логированием, валидацией, тестами, Docker и CI/CD | Планируется |
+## Working style
 
----
+```text
+Communication: asynchronous first
+Response time: within 4 business hours
+Meetings: by appointment
+Project updates: once per business day
+```
 
-## 🛠️ Основной стек
+I am a C#/.NET backend developer with product and international development experience. My core stack includes ASP.NET Core, EF Core, PostgreSQL, Redis, RabbitMQ, Kafka, Docker, Kubernetes, and CI/CD.
 
-![C#](https://img.shields.io/badge/C%23-1E7775?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-1E7775?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1E7775?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-1E7775?style=for-the-badge&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E7775?style=for-the-badge&logo=postgresql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1E7775?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-1E7775?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-1E7775?style=for-the-badge&logo=redis&logoColor=white)
+If you want a second opinion before a refactor, migration, hiring push, or AI-assisted development rollout, [message me on Telegram](https://t.me/daniildotnet) with the repository size, .NET version, and the three problems you care about most.
 
-![Docker](https://img.shields.io/badge/Docker-1E7775?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1E7775?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1E7775?style=for-the-badge&logo=git&logoColor=F88C00)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-1E7775?style=for-the-badge&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1E7775?style=for-the-badge&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-1E7775?style=for-the-badge&logo=postman&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-1E7775?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-1E7775?style=for-the-badge&logo=react&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1E7775?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 🧠 Темы, которые я разбираю
-
-### Backend-разработка
-
-- ASP.NET Core Web API
-- REST API
-- Dependency Injection
-- Middleware
-- Валидация
-- Обработка ошибок
-- Логирование
-- Background jobs
-- Authentication / Authorization
-- Работа с конфигурацией
-- Интеграции с внешними сервисами
-
-### Архитектура
-
-- Clean Architecture
-- SOLID
-- ООП
-- DDD
-- CQRS
-- Микросервисная архитектура
-- Application services
-- Use cases
-- Repository pattern: когда нужен, а когда мешает
-- Границы слоёв
-- Поддерживаемость кода
-
-### PostgreSQL и EF Core
-
-- Проектирование схемы БД
-- Миграции
-- Индексы
-- Транзакции
-- Оптимизация SQL-запросов
-- EF Core tracking
-- `AsNoTracking`
-- N+1 проблема
-- Анализ SQL, который генерирует EF Core
-- Производительность запросов
-
-### Тестирование
-
-- Unit-тесты
-- Integration-тесты
-- Тестируемая бизнес-логика
-- Как не замокать весь проект
-- Тестирование ASP.NET Core API
-- Тесты как часть production-ready разработки
-
-### Карьерный рост
-
-- Roadmap Junior → Middle
-- Как мыслит Senior-разработчик
-- Как проходить code review
-- Как готовиться к .NET backend собеседованию
-- Какие темы реально нужны после CRUD
-- Как расти через практику, а не через бесконечные курсы
-
----
-
-## 📚 Учебные репозитории
-
-### Актуальные и будущие проекты Dev Growth Academy
-
-| Проект | Описание | Стек |
-|---|---|---|
-| `dotnet-backend-roadmap` | Пошаговый план роста для C# / .NET backend-разработчика | C#, .NET, Backend |
-| `aspnetcore-clean-architecture` | Учебный проект с Clean Architecture на ASP.NET Core | C#, ASP.NET Core, EF Core |
-| `efcore-postgresql-practice` | Практика по PostgreSQL, EF Core, миграциям и оптимизации запросов | C#, EF Core, PostgreSQL |
-| `dotnet-code-review-examples` | Примеры code review: плохой код, проблемы, улучшения | C#, Refactoring |
-| `backend-interview-prep` | Вопросы и ответы для подготовки к .NET backend собеседованиям | C#, .NET, SQL |
-| `production-ready-api` | API с Docker, логированием, тестами, CI/CD и production-подходом | ASP.NET Core, Docker, CI/CD |
-
----
-
-## 🧩 Мои текущие и прошлые проекты
-
-Эти проекты показывают мой путь в разработке: от C/C++ и системных задач до SQL, Docker, CI/CD и backend-разработки.
-
-| Проект | Описание | Стек |
-|---|---|---|
-| [StrideFlow](https://github.com/Dalkory/StrideFlow) | C# проект, который можно развивать как практический backend-пример | C#, .NET |
-| [SQL_RetailAnalitycs](https://github.com/Dalkory/SQL_RetailAnalitycs) | Розничная аналитика, сегментация клиентов и персональные предложения | PostgreSQL |
-| [SQL_Info_21](https://github.com/Dalkory/Info_21) | Аналитика и статистика для School 21 | PostgreSQL |
-| [SQL_Intensive](https://github.com/Dalkory/SQL_Intensive) | Учебные SQL-проекты | PostgreSQL |
-| [CICD_GITLAB](https://github.com/Dalkory/CICD_GITLAB) | Сборка, тестирование и деплой через GitLab CI/CD | GitLab CI/CD |
-| [SimpleDocker](https://github.com/Dalkory/SimpleDocker) | Практика с Docker, сервером и контейнеризацией | Docker, Bash, C, nginx |
-| [3DViewer_on_CPP](https://github.com/Dalkory/3DViewer_on_CPP) | Программа для просмотра 3D-объектов из `.obj` файлов | C++, Qt, OpenGL |
-| [SmartCalc_on_CPP](https://github.com/Dalkory/SmartCalcCPP) | Калькулятор с интерфейсом, функциями и графиками | C++, Qt |
-| [CPP_Containers](https://github.com/Dalkory/CPP_Containers) | Реализация контейнеров C++: list, stack, queue, set, map, vector, array | C++, GoogleTest |
-| [String_Sprintf_Sscanf](https://github.com/Dalkory/String_Sprintf_Sscanf) | Реализация функций строки и форматирования | C |
-| [Decimal](https://github.com/Dalkory/Decimal) | Реализация decimal-библиотеки | C |
-| [Matrix](https://github.com/Dalkory/Matrix) | Библиотека для работы с матрицами | C |
-| [Math](https://github.com/Dalkory/Math) | Реализация функций математической библиотеки | C |
-| [LinuxNetwork](https://github.com/Dalkory/LinuxNetwork) | Практика по настройке сетей в Linux | Linux, iptables, nmap, DHCP, SSH |
-| [LinuxMonitoring_v1.0](https://github.com/Dalkory/LinuxMonitoring_v1.0) / [LinuxMonitoring_v2.0](https://github.com/Dalkory/LinuxMonitoring_v2.0) | Bash-скрипты и мониторинг Linux-систем | Linux, Bash |
-
----
-
-## 🎥 Код из видео
-
-В этом разделе будут появляться репозитории, связанные с видео Dev Growth Academy.
-
-| Видео | Репозиторий | Тема |
-|---|---|---|
-| Скоро | Скоро | C# / .NET / PostgreSQL |
-
-Каждый учебный репозиторий будет содержать:
-
-- Исходный код
-- README с объяснением
-- Задание
-- Разбор решения
-- Возможные улучшения
-- Ссылку на видео
-- Идеи для самостоятельной практики
-
----
-
-## 🤝 Менторство
-
-Я помогаю C# / .NET разработчикам расти через практику:
-
-- Разбор уровня
-- Code review
-- Roadmap развития
-- Практика по C#, .NET, PostgreSQL
-- Подготовка к собеседованиям
-- Разбор архитектуры
-- Рефакторинг
-- Production-мышление
-
-Если хочешь прокачаться как backend-разработчик — можешь написать мне в Telegram.
-
-[![Telegram](https://img.shields.io/badge/Telegram-написать_мне-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daniildotnet)
-
----
-
-## 📫 Контакты
-
-- Telegram: [@daniildotnet](https://t.me/daniildotnet)
-- GitHub: [github.com/Dalkory](https://github.com/Dalkory)
-- Проект: **Dev Growth Academy**
-
----
-
-> Пиши чистый код.  
-> Понимай архитектуру.  
-> Расти как backend-разработчик.
